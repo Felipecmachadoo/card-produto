@@ -29,7 +29,7 @@ function App() {
             <span className="text-sm text-gray-500">4.9 (55 Avaliações)</span>
           </div>
           <div className="flex justify-between">
-            <span className="text-3xl font-bold text-sky-500">R$1.799,99</span>
+            <span className="text-3xl font-bold text-sky-500">R$1799,99</span>
             <button className="text-white text-sm py-2 px-4 rounded-full bg-linear-90 from-sky-500 to-indigo-900/50 cursor-pointer">
               Comprar agora
             </button>
